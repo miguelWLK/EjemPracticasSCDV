@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  
+}
+
+h1 {
+  color: brown;
+  text-align: center;
+}
+
+p {
+  color: white;
+  font-family: verdana;
+  font-size: 20px;
+  margin: 40px;
+}
+
+img {
+    display: block;
+    margin: auto;
+  }
